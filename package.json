@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "typescript": "^5.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angie-commits/challenges1.ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Angie-commits/challenges1.ts/issues"
+  },
+  "homepage": "https://github.com/Angie-commits/challenges1.ts#readme",
+  "description": ""
 }
